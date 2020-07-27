@@ -1,4 +1,9 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Factory;
+
+import Creational.FactoryMethod.Tank.HeavyTank;
+import Creational.FactoryMethod.Tank.LightTank;
+import Creational.FactoryMethod.Tank.MediumTank;
+import Creational.FactoryMethod.Tank.Tank;
 
 public class TankFactory {
     

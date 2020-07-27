@@ -1,4 +1,4 @@
-package Creational.FactoryMethod;
+package Creational.FactoryMethod.Tank;
 
 public class HeavyTank extends Tank{
     
