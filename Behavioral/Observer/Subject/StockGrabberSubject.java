@@ -1,8 +1,8 @@
-package Behavioral.ObserverPattern.Subject;
+package Behavioral.Observer.Subject;
 
 import java.util.ArrayList;
 
-import Behavioral.ObserverPattern.Observer.Observer;
+import Behavioral.Observer.Observer.Observer;
 
 public class StockGrabberSubject implements Subject {
 

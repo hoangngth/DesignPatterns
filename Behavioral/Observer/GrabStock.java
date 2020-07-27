@@ -1,7 +1,7 @@
-package Behavioral.ObserverPattern;
+package Behavioral.Observer;
 
-import Behavioral.ObserverPattern.Observer.StockObserver;
-import Behavioral.ObserverPattern.Subject.StockGrabberSubject;
+import Behavioral.Observer.Observer.StockObserver;
+import Behavioral.Observer.Subject.StockGrabberSubject;
 
 public class GrabStock {
     

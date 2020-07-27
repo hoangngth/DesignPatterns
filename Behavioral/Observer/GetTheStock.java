@@ -1,7 +1,7 @@
-package Behavioral.ObserverPattern;
+package Behavioral.Observer;
 
-import Behavioral.ObserverPattern.Subject.StockGrabberSubject;
-import Behavioral.ObserverPattern.Subject.Subject;
+import Behavioral.Observer.Subject.StockGrabberSubject;
+import Behavioral.Observer.Subject.Subject;
 
 public class GetTheStock implements Runnable {
 
@@ -10,11 +10,11 @@ public class GetTheStock implements Runnable {
     private double price;
     private Subject stockGrabber;
 
-    public GetTheStock(Subject stockGrabber, String name, int updateTime, double price) {
+    public GetTheStock(Subject stockGrabber, String name, int updateTime, double startPrice) {
         this.stockGrabber = stockGrabber;
         this.name = name;
         this.updateTime = updateTime;
-        this.price = price;
+        this.price = startPrice;
     }
 
     @Override

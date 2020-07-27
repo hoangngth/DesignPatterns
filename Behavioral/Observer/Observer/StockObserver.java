@@ -1,6 +1,6 @@
-package Behavioral.ObserverPattern.Observer;
+package Behavioral.Observer.Observer;
 
-import Behavioral.ObserverPattern.Subject.Subject;
+import Behavioral.Observer.Subject.Subject;
 
 public class StockObserver implements Observer {
 

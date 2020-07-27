@@ -1,6 +1,6 @@
-package Behavioral.ObserverPattern.Subject;
+package Behavioral.Observer.Subject;
 
-import Behavioral.ObserverPattern.Observer.Observer;
+import Behavioral.Observer.Observer.Observer;
 
 public interface Subject {
     public void register(Observer obs);

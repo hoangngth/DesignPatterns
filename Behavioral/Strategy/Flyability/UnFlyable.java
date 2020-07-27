@@ -1,4 +1,4 @@
-package Behavioral.StrategyPattern.Flyability;
+package Behavioral.Strategy.Flyability;
 
 public class UnFlyable implements Fly {
 
