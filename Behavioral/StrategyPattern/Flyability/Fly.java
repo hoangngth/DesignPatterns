@@ -1,4 +1,4 @@
-package Behavioral.Strategy.Flyability;
+package Behavioral.StrategyPattern.Flyability;
 
 public interface Fly {
     

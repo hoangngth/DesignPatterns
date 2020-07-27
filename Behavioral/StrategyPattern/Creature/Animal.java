@@ -1,6 +1,6 @@
-package Behavioral.Strategy.Creature;
+package Behavioral.StrategyPattern.Creature;
 
-import Behavioral.Strategy.Flyability.Fly;
+import Behavioral.StrategyPattern.Flyability.Fly;
 
 public abstract class Animal {
 

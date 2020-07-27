@@ -1,6 +1,6 @@
-package Behavioral.Strategy.Creature;
+package Behavioral.StrategyPattern.Creature;
 
-import Behavioral.Strategy.Flyability.UnFlyable;
+import Behavioral.StrategyPattern.Flyability.UnFlyable;
 
 public class Dog extends Animal {
 

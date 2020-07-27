@@ -1,9 +1,9 @@
-package Behavioral.Strategy;
+package Behavioral.StrategyPattern;
 
-import Behavioral.Strategy.Creature.Animal;
-import Behavioral.Strategy.Creature.Bird;
-import Behavioral.Strategy.Creature.Dog;
-import Behavioral.Strategy.Flyability.Flyable;
+import Behavioral.StrategyPattern.Creature.Animal;
+import Behavioral.StrategyPattern.Creature.Bird;
+import Behavioral.StrategyPattern.Creature.Dog;
+import Behavioral.StrategyPattern.Flyability.Flyable;
 
 public class CreaturePlay {
     

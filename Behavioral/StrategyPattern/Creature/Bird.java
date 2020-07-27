@@ -1,6 +1,6 @@
-package Behavioral.Strategy.Creature;
+package Behavioral.StrategyPattern.Creature;
 
-import Behavioral.Strategy.Flyability.Flyable;
+import Behavioral.StrategyPattern.Flyability.Flyable;
 
 public class Bird extends Animal {
 
