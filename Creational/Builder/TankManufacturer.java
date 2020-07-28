@@ -1,9 +1,7 @@
 package Creational.Builder;
 
-import Creational.Builder.PartTypes.CannonType;
-import Creational.Builder.PartTypes.HullType;
-import Creational.Builder.PartTypes.TrackType;
-import Creational.Builder.PartTypes.TurretType;
+import Creational.Builder.Builder.TankComponentBuilder;
+import Creational.Builder.PartTypes.*;
 
 public class TankManufacturer {
     

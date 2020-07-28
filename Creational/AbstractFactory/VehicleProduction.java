@@ -1,8 +1,8 @@
 package Creational.AbstractFactory;
 
-import Creational.AbstractFactory.Factories.MaterialType;
-import Creational.AbstractFactory.Factories.VehicleAbstractFactory;
-import Creational.AbstractFactory.Factories.VehicleFactory;
+import Creational.AbstractFactory.Factory.MaterialType;
+import Creational.AbstractFactory.Factory.VehicleAbstractFactory;
+import Creational.AbstractFactory.Factory.VehicleFactory;
 
 public class VehicleProduction {
     

@@ -1,5 +1,6 @@
-package Creational.Builder;
+package Creational.Builder.Builder;
 
+import Creational.Builder.Tank;
 import Creational.Builder.PartTypes.*;
 
 public class TankComponentBuilder implements TankBuilder {

@@ -1,4 +1,4 @@
-package Creational.AbstractFactory.Factories;
+package Creational.AbstractFactory.Factory;
 
 public class VehicleFactory {
     

@@ -1,4 +1,4 @@
-package Creational.AbstractFactory.Factories;
+package Creational.AbstractFactory.Factory;
 
 import Creational.AbstractFactory.Aircraft.Aircraft;
 import Creational.AbstractFactory.Aircraft.SteelAircraft;
