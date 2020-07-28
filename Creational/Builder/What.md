@@ -1,0 +1,2 @@
+1. Builder is a creational design pattern that separate the construction of a complex object from its representation so that the same construction process can create different representations.
+2. Pattern used to create objects made from a bunch of other objects.
