@@ -12,7 +12,7 @@
     1. Decorator
     2. Adapter
     3. Facade
-    4. 
+    4. Bridge
     5. 
     6. 
     7. 
@@ -25,7 +25,7 @@
     1. Strategy
     2. Observer
     3. Command
-    4. 
+    4. Template Method
     5. 
     6. 
     7. 
