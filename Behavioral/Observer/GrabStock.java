@@ -15,7 +15,7 @@ public class GrabStock {
         stockGrabber.setGooglePrice(16.8);
         stockGrabber.unregister(observer1);
 
-        StockObserver observer2 = new StockObserver(stockGrabber);
+        new StockObserver(stockGrabber);
         // stockGrabber.setIbmPrice(10.5);
         // stockGrabber.setApplePrice(23.4);
         // stockGrabber.setGooglePrice(16.8);
