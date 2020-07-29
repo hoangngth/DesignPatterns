@@ -11,7 +11,7 @@
 - Structural:
     1. Decorator
     2. Adapter
-    3. 
+    3. Facade
     4. 
     5. 
     6. 
