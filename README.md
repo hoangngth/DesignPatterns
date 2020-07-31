@@ -13,17 +13,17 @@
     2. Adapter
     3. Facade
     4. Bridge
-    5. Flyweight
-    6. 
-    7. 
+    5. Composite
+    6. Flyweight
+    7. Proxy
 
 - Behavioral:
     1. Strategy
     2. Observer
     3. Command
     4. Template Method
-    5. State
-    6. 
+    5. Iterator
+    6. State
     7. 
     8. 
     9. 
