@@ -24,7 +24,7 @@
     4. Template Method
     5. Iterator
     6. State
-    7. Chain of Responsibility
+    7. 
     8. 
     9. 
     10. 
