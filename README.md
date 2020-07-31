@@ -13,19 +13,19 @@
     2. Adapter
     3. Facade
     4. Bridge
-    5. 
+    5. Flyweight
     6. 
     7. 
-    8. 
-    9. 
-    10. 
-    11. 
 
 - Behavioral:
     1. Strategy
     2. Observer
     3. Command
     4. Template Method
-    5. 
+    5. State
     6. 
     7. 
+    8. 
+    9. 
+    10. 
+    11. 
