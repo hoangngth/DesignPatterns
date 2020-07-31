@@ -1,0 +1,1 @@
+1. This pattern sends data to an object and if that object can't use it, it sends it to any number of other objects that may be able to use it.
