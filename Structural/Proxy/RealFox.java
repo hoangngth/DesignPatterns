@@ -13,7 +13,7 @@ public class RealFox implements Fox {
 
     @Override
     public void play() {    
-        System.out.printf("Call out %s the fox!\n", name);
+        System.out.printf("Call %s the fox!\n", name);
         /*
         **  This method should be larger and has a lot more logics.
         */
