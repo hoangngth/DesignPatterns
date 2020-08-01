@@ -28,4 +28,4 @@
     8. Interpreter
     9. Mediator
     10. Memento
-    11. 
+    11. Visitor
