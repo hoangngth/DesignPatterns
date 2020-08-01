@@ -27,5 +27,5 @@
     7. Chain of Responsibility
     8. Interpreter
     9. Mediator
-    10. 
+    10. Memento
     11. 
